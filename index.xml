@@ -5,12 +5,29 @@
     <link>https://jbernot.github.io/</link>
       <atom:link href="https://jbernot.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>J. P. Bernot</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 14 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>J. P. Bernot</title>
       <link>https://jbernot.github.io/</link>
     </image>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://jbernot.github.io/projects/</link>
+      <pubDate>Tue, 18 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://jbernot.github.io/projects/</guid>
+      <description>&lt;h3 id=&#34;crustacean-phylogenomics&#34;&gt;Crustacean Phylogenomics&lt;/h3&gt;
+&lt;p&gt;Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life, including sessile, shell-incased barnacles, swimming centipede-like remipedes, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals are related to one another, and this still remains a mystery today. By using large genomic and transcriptomic datasets, I hope to build a better picture of the crustacean tree of life.&lt;/p&gt;
+&lt;h3 id=&#34;copepod-diversity&#34;&gt;Copepod Diversity&lt;/h3&gt;
+&lt;p&gt;Copepods are a group of small aquatic crustaceans containing 11,000 species that are likely the most abundant animals in the ocean, yet few people have heard of these creatures. While most copepods are about the size and shape of a grain of rice, some are as small as 0.2 mm and the giant parasite &lt;i&gt;Panella balaenoptera&lt;/i&gt; be over a foot long! Their generally small size belies their essential role in ecosystems: they are ubiquitous in aquatic environments from mountain streams to all depths of the ocean and are even abundant in canopy mosses and wet soil. Most ocean animals are directly or indirectly dependent on copepods as a food source. In addition, half of all copepods (about 6,000 species) are parasites of other animals. I am particularly interested in parasitic copepods because they are a powerful system to study parasite evolution since they have evolved to be parasitic multiple times, parasitize a huge diversity of hosts (13 different phyla), and exhibit extreme morphological variation. I am working to understand how parasitic copepods have colonized so many different hosts and to understand the processes have produced their spectacular morphological variation. I use microscopy to identify copepods, describe new species, and document their morphology, and next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified.&lt;/p&gt;
+&lt;h3 id=&#34;tapeworm-taxonomy-and-systematics&#34;&gt;Tapeworm Taxonomy and Systematics&lt;/h3&gt;
+&lt;p&gt;Tapeworms are parasites that live in the intestines of vertebrates. They lack all elements of a digestive tract, instead they rely on their host for nutrients, which tapeworms absorb through the surfaces of their body. I have described 5 species of tapeworms from sharks and 
+&lt;a href=&#34;http://doi.org/10.7717/peerj.7264&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;documented a novel attachment mechanism&lt;/a&gt; in a genus of shark tapeworms. While most tapeworms attach with their head, a specialized attachment organ called a scolex, species of &lt;i&gt;Calliobothrium&lt;/i&gt; use, to a much greater extent, spikey structures along the length of their body to attach to the villi on the gut of their hosts.&lt;/p&gt;
+&lt;h3 id=&#34;computational-biology&#34;&gt;Computational Biology&lt;/h3&gt;
+&lt;p&gt;I apply computational biology methods to answer biological questions. Often, these questions are related to the topics above, but I have also collaborated in a variety of other areas including human gene expression in cancer, mouse models of human disease, fish microbiome characterization, and hookworm developmental gene expression. My computational biology work has involved phylogenetics, phylogenomics, ortholog identification, microbiome analysis, transcriptome assembly, genome assembly, and differential gene expression analyses.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Outreach &amp; Science Communication</title>
