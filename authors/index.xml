@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | J. P. Bernot</title>
-    <link>https://jbernot.github.io/authors/</link>
-      <atom:link href="https://jbernot.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jimmybernot.com/authors/</link>
+      <atom:link href="https://jimmybernot.com/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
-      <link>https://jbernot.github.io/authors/</link>
+      <link>https://jimmybernot.com/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>https://jbernot.github.io/authors/admin/</link>
+      <link>https://jimmybernot.com/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jbernot.github.io/authors/admin/</guid>
+      <guid>https://jimmybernot.com/authors/admin/</guid>
       <description>&lt;p&gt;Jimmy Bernot is an evolutionary biologist at George Washington University and a Research Associate at the Smithsonian National Museum of Natural History. His research interests include crustacean phylogenetics, copepod taxonomy and systematics, parasite evolution, and computational biology. He is working to resolve the crustacean tree of life and understand the processes that have resulted in the spectacular morphological diversity of modern crustaceans, with a particular focus on parasitic copepods.&lt;/p&gt;
 &lt;p&gt;He is also passionate about science communication, public engagement, education, and outreach. He regularly participates in outreach events in Washington DC, especially at the Smithsonian National Museum of Natural History. See information below for upcoming events and follow him on Twitter 
 &lt;a href=&#34;https://twitter.com/JP_Bernot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@JP_Bernot&lt;/a&gt;&lt;/p&gt;
