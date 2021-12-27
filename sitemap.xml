@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jimmybernot.com/outreach_scicomm/</loc>
-    <lastmod>2020-02-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jimmybernot.com/projects/</loc>
+    <lastmod>2021-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jimmybernot.com/outreach_scicomm/</loc>
     <lastmod>2020-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jimmybernot.com/publication_list/</loc>
