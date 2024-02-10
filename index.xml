@@ -18,7 +18,8 @@
       <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://jimmybernot.com/projects/</guid>
       <description>&lt;h3 id=&#34;crustacean-genomics&#34;&gt;Crustacean Genomics&lt;/h3&gt;
-&lt;p&gt;Crustaceans are a group of arthropods that includes familiar animals like crabs, shrimp, and lobsters, as well as thousands of other species with extremely varied ways of life including ferocious mantis shrimp, lanky 12-foot wide Japanese spider crabs, miniscule sea monkeys (brine shrimp), shell-incased barnacles, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals evolved, and this largely remains a mystery today. By using large genomic and transcriptomic datasets and expanded taxon sampling I hope to better understand their evolution and resolve this large and important branch of the tree of life.&lt;/p&gt;
+&lt;p&gt;Pancrustaceans are a group of arthropods that includes familiar animals like insects, crabs, and lobsters, as well as thousands of other species with extremely varied ways of life including mantis shrimp, 12-foot wide Japanese Spider Crabs, microscopic tantulocarids, shell-incased barnacles, giant deep-sea isopods, and many others. For centuries scientists have debated how these various animals evolved, and much of this still remains a mystery today. By using large genomic and transcriptomic datasets and expanded taxon sampling, I hope to better understand their evolution and resolve this large and important branch of the tree of life. We are particularly interested in collecting rare, unsampled groups of crustaceans that can break long branches and help better resolve the phylogeny. You can see some of the latest revisions and target taxa in our recent paper in 
+&lt;a href=&#34;https://doi.org/10.1093/molbev/msad175&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Molecular Biology and Evolution&lt;/a&gt;&lt;/p&gt;
 &lt;img src=&#34;https://github.com/jbernot/jbernot.github.io/blob/master/img/website_crustacea_tree.jpg?raw=true&#34;&gt;
 &lt;h3 id=&#34;parasitic-copepod-diversity--systematics&#34;&gt;Parasitic Copepod Diversity &amp;amp; Systematics&lt;/h3&gt;
 &lt;p&gt;Copepods are a group of small aquatic crustaceans containing &amp;gt;14,000 species that are likely the most abundant animals in the ocean. Most copepods are about the size and shape of a sesame seed or grain of rice, but their small size belies their essential role in ecosystems. They are ubiquitous in aquatic environments from mountain streams to all depths of the ocean and are even abundant in canopy mosses and wet soils. Most ocean animals are directly or indirectly dependent on copepods as a food source. In addition, about half of all copepods (&amp;gt;6,000 species) are parasites of other animals &amp;ndash; my research largely focuses on parasitic copepods.&lt;/p&gt;
@@ -26,13 +27,13 @@
 &lt;img src=&#34;https://github.com/jbernot/academic-kickstart/blob/master/static/img/Lernaea_fish_lateral_colored_website.png?raw=true&#34;&gt;
 &lt;figcaption&gt; &lt;b&gt;microCT of three spined stickleback with 2 &lt;i&gt;Lernaea&lt;/i&gt; copepods (red) embedded&lt;/b&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;I combine field expeditions, traditional morphological identification, cutting-edge imaging technologies, and genomic analses to better understand copepod diversity. I use light microscopy, microCT, SEM, and histology to identify copepods, 
+&lt;p&gt;I combine field expeditions, traditional morphological identification, advanced imaging technologies, and genomic analyses to better understand copepod diversity. I use light microscopy, microCT, SEM, and histology to identify copepods, 
 &lt;a href=&#34;https://peerj.com/articles/6858/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;describe new species&lt;/a&gt;, and document their 
-&lt;a href=&#34;https://peerj.com/articles/6858/#fig-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;morphology&lt;/a&gt;. I use next-generation sequencing (NGS) to understand how copepods are related to each other and how they have diversified. Much of the copepod tree of life remains largely unresolved, with  only 
-&lt;a href=&#34;https://doi.org/10.7717/peerj.12034/table-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;gt;4%&lt;/a&gt; of copepod species included in phylogenetic analyses. Despite this lack of resultion, current data suggest 
+&lt;a href=&#34;https://peerj.com/articles/6858/#fig-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;morphology&lt;/a&gt;. I use next-generation sequencing (NGS) and phylogenetic analyses to understand how copepods are related to each other and how they have diversified. Much of the copepod tree of life remains largely unresolved, with  only 
+&lt;a href=&#34;https://doi.org/10.7717/peerj.12034/table-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;gt;4%&lt;/a&gt; of copepod species included in phylogenetic analyses. Despite this lack of resolution, current data suggest 
 &lt;a href=&#34;https://peerj.com/articles/12034/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;copepods evolved to be parasitic at least 14 times&lt;/a&gt; which has resulted in 
-&lt;a href=&#34;https://doi.org/10.7717/peerj.12034/fig-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spectacular morphological diversity&lt;/a&gt; and extreme host range (14 phyla). Taken together, this makes the Copepoda an ideal system to test hypothesis regarding the evolution of parastism, morphological evolution, and the evolutionary dynamics of host associations. My 3 year 
-&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010898&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF postdoc research fellowship&lt;/a&gt; focuses on building the copepod tree of life by developing an AHE probe set for copepod phylogenomics.&lt;/p&gt;
+&lt;a href=&#34;https://doi.org/10.7717/peerj.12034/fig-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;spectacular morphological diversity&lt;/a&gt; and extreme host range (14 phyla). Taken together, this makes the Copepoda an ideal system to test hypothesis regarding the evolution of parasitism, morphological evolution, and the evolutionary dynamics of host associations. My 3 year 
+&lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2010898&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NSF postdoc research fellowship&lt;/a&gt; focuses on building the copepod tree of life by developing an UCE probe set for copepod phylogenomics.&lt;/p&gt;
 &lt;figure&gt;
 &lt;img src=&#34;https://dfzljdn9uc3pi.cloudfront.net/2021/12034/1/fig-1-2x.jpg&#34;&gt;
 &lt;figcaption&gt; &lt;b&gt;A diversity of parasitic copepod body plans.&lt;/b&gt; &lt;a href=&#34;https://doi.org/10.7717/peerj.12034/fig-1&#34;&gt;Image Credit&lt;/a&gt;&lt;/figcaption&gt;
@@ -55,149 +56,113 @@
 &lt;a href=&#34;https://www.instagram.com/jimmybernot/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instagram&lt;/a&gt;, and 
 &lt;a href=&#34;https://www.tiktok.com/@jimmybernot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TikTok&lt;/a&gt;&lt;/h4&gt;
 &lt;img src=&#34;https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo2.jpg?raw=true&#34;&gt;
-&lt;h4 id=&#34;cowrote-world-register-of-marine-species-article-top-10-new-marine-species-of-2021httpslifewatchbeenworms-top10-2021&#34;&gt;Cowrote World Register of Marine Species article 
+&lt;h4 id=&#34;chaired-world-register-of-marine-species-worms-top-10-new-marine-species-of-2022httpslifewatchbeenworms-top10-2022&#34;&gt;Chaired World Register of Marine Species (WoRMS) 
+&lt;a href=&#34;https://lifewatch.be/en/worms-top10-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Top 10 new marine species of 2022”&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Cowrote 
+&lt;a href=&#34;https://lifewatch.be/en/worms-top10-2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WoRMS article&lt;/a&gt; for Taxonomists Appreciation Day to draw attention to
+taxonomic research. March 2023.&lt;/p&gt;
+&lt;h4 id=&#34;cowrote-worms-top-10-new-marine-species-of-2021httpslifewatchbeenworms-top10-2021&#34;&gt;Cowrote WoRMS 
 &lt;a href=&#34;https://lifewatch.be/en/worms-top10-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Top 10 new marine species of 2021”&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Cowrote 
-&lt;a href=&#34;https://lifewatch.be/en/worms-top10-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WoRMS article&lt;/a&gt; for Taxonomists Appreciation Day to draw attention to
-taxonomic research. March 19, 2022.
+&lt;a href=&#34;https://lifewatch.be/en/worms-top10-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WoRMS article&lt;/a&gt; for Taxonomists Appreciation Day. March 2022.
 
 &lt;a href=&#34;https://lifewatch.be/en/worms-top10-2021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://images.marinespecies.org/thumbs/150643_periclimenaeus-karantina-jh-park-en-de-grave-2021.jpg?w=700&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;smithsonian-nmnh-white-house-office-of-science-and-technology-policy-staff--family-night&#34;&gt;Smithsonian NMNH White House Office of Science and Technology Policy Staff &amp;amp; Family Night&lt;/h4&gt;
-&lt;p&gt;Ocean Hall expert to talk with OSTP staff about NMNH research. Feb. 28, 2022.&lt;/p&gt;
+&lt;p&gt;Dr. Bernot served as an Ocean Hall Expert to talk with OSTP staff about NMNH research. Feb. 28, 2022.&lt;/p&gt;
 &lt;h4 id=&#34;national-geographic-interviewhttpswwwnationalgeographiccomanimalsarticleparasites-are-diverse-heres-why-they-matter-on-parasites&#34;&gt;
 &lt;a href=&#34;https://www.nationalgeographic.com/animals/article/parasites-are-diverse-heres-why-they-matter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;National Geographic Interview&lt;/a&gt; on Parasites&lt;/h4&gt;
-&lt;p&gt;Interviewed in 
-&lt;a href=&#34;https://www.nationalgeographic.com/animals/article/parasites-are-diverse-heres-why-they-matter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NatGeo article&lt;/a&gt; on the importance of parasites. October 7, 2021.&lt;/p&gt;
-&lt;h4 id=&#34;exolorehttpswwwexolorepodcomepisodes-podcast-feature&#34;&gt;
-&lt;a href=&#34;https://www.exolorepod.com/episodes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exolore&lt;/a&gt; Podcast Feature&lt;/h4&gt;
-&lt;p&gt;M Dwarf Planet: Biology. Podcast panel discussion
-featuring scientists discussing biology on alien worlds. 
-&lt;a href=&#34;https://www.exolorepod.com/episodes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exolore Podcast&lt;/a&gt; episode 23, a podcast featuring scientists, historians, psychologists that discuss biological and sociological implications of sci-fi worlds. Aug. 27, 2021&lt;/p&gt;
-&lt;iframe src=&#34;https://open.spotify.com/embed/episode/7rTWLqBwDI1FELcfiBXSy2&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;Interviewed in NatGeo article on the importance of parasites.&lt;/p&gt;
 &lt;h4 id=&#34;interviewed-in-the-atlantichttpswwwtheatlanticcomsciencearchive202107tongue-biting-isopod619430&#34;&gt;Interviewed in 
 &lt;a href=&#34;https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Atlantic&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Article on tongue-biter parasitic isopods. July 14, 2021
+&lt;p&gt;Article on tongue-biter parasitic isopods.
 
-&lt;a href=&#34;https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://www.theatlantic.com/science/archive/2021/07/tongue-biting-isopod/619430/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://cdn.theatlantic.com/thumbor/bGEbRK5yDxekkpm3w12O40TvVH4=/0x0:2500x1406/1952x1098/media/img/mt/2021/07/2B1EF3D/original.jpg?raw=true&#34; width=&#34;775&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;twitter-thread-on-how-science-illustrations-are-made&#34;&gt;Twitter thread on how science illustrations are made&lt;/h4&gt;
-&lt;p&gt;Videos and photos demonstrating the science illustration process. March 30, 2021.&lt;/p&gt;
+&lt;p&gt;Videos and photos demonstrating the science illustration process.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Here&amp;#39;s a thread on how I make scientific illustrations for describing new species of invertebrates &lt;a href=&#34;https://twitter.com/hashtag/sciencetwitter?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#sciencetwitter&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/art?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#art&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/science?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#science&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/illustration?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#illustration&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/taxonomy?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#taxonomy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/hashtag/teaminvert?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#teaminvert&lt;/a&gt; &lt;a href=&#34;https://t.co/vQwbZQD7xw&#34;&gt;pic.twitter.com/vQwbZQD7xw&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jimmy Bernot, PhD 🦐🪱🏳️‍🌈 (@JimmyBernot) &lt;a href=&#34;https://twitter.com/JimmyBernot/status/1377067162741968897?ref_src=twsrc%5Etfw&#34;&gt;March 31, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;h4 id=&#34;planet-b162httpsplanetb612fm-microscopy-podcast-feature&#34;&gt;
-&lt;a href=&#34;https://planetb612.fm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Planet B162&lt;/a&gt; microscopy podcast feature&lt;/h4&gt;
-&lt;iframe src=&#34;https://open.spotify.com/embed/episode/2KGh4IkjiRFbOIYrKFwbXz&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
+&lt;h4 id=&#34;interviewed-in-slatehttpsslatecomtechnology202104covid-19-challenge-trials-malaria-hookwormshtml-and-undarkhttpsundarkorg20210407getting-sick-for-medical-research-articles-on-challenge-trials&#34;&gt;Interviewed in 
+&lt;a href=&#34;https://slate.com/technology/2021/04/covid-19-challenge-trials-malaria-hookworms.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slate&lt;/a&gt; and 
+&lt;a href=&#34;https://undark.org/2021/04/07/getting-sick-for-medical-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undark&lt;/a&gt; articles on challenge trials&lt;/h4&gt;
+&lt;p&gt;&amp;ldquo;From there, Bernot knew, the hookworms would travel to his lungs. Eventually, they would make their way up from his lungs, slip down his esophagus, pass through his stomach, attach themselves to the lining of his small intestine, and begin to suck his blood.&amp;rdquo;&lt;/p&gt;
 &lt;h4 id=&#34;sharkpediahttpsanchorfmsharkpediapodepisodesshark-parasites-with-dr--jimmy-bernot-e13emju-podcast-feature&#34;&gt;
 &lt;a href=&#34;https://anchor.fm/sharkpediapod/episodes/Shark-Parasites-with-Dr--Jimmy-Bernot-e13emju&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sharkpedia&lt;/a&gt; podcast feature&lt;/h4&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed/episode/6YAwzxK1jmt3tjqZmLTzyE&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
-&lt;h4 id=&#34;interviewed-in-slatehttpsslatecomtechnology202104covid-19-challenge-trials-malaria-hookwormshtml-and-undarkhttpsundarkorg20210407getting-sick-for-medical-research&#34;&gt;Interviewed in 
-&lt;a href=&#34;https://slate.com/technology/2021/04/covid-19-challenge-trials-malaria-hookworms.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slate&lt;/a&gt; and 
-&lt;a href=&#34;https://undark.org/2021/04/07/getting-sick-for-medical-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Undark&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Article on challenge trials in medical research. April 7, 2021&lt;/p&gt;
 &lt;h4 id=&#34;cowrote-wormshttpswwwmarinespeciesorgaboutphp-article-ten-remarkable-new-marine-species-from-2020httpslifewatchbeenten-remarkable-new-marine-species-2020&#34;&gt;Cowrote 
 &lt;a href=&#34;https://www.marinespecies.org/about.php&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WoRMS&lt;/a&gt; article 
 &lt;a href=&#34;https://lifewatch.be/en/ten-remarkable-new-marine-species-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;“Ten remarkable new marine species from 2020”&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Celebrating Taxonomists Appreciation Day to draw public attention and press coverage to taxonomic research. Created 
-&lt;a href=&#34;https://www.youtube.com/watch?v=mwFdbec5k8s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Youtube&lt;/a&gt; video. March 19, 2021.&lt;/p&gt;
-&lt;h4 id=&#34;created-youtube-video-for-worms-ten-remarkable-new-marine-species-from-2020&#34;&gt;Created Youtube video for WoRMS Ten remarkable new marine species from 2020&lt;/h4&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/mwFdbec5k8s&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h4 id=&#34;skype-a-scientist-live-event&#34;&gt;Skype A Scientist LIVE event&lt;/h4&gt;
-&lt;p&gt;Virtual live Q&amp;amp;A and introduction to marine plankton and parasites with &amp;gt;200 attendees. March 10, 2021.&lt;/p&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/6-57CouBfMk&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://lifewatch.be/en/ten-remarkable-new-marine-species-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://lifewatch.be/sites/lifewatch.be/files/public/WoRMS%20Top%20Ten%202020%20-%20Astrolirus%20patricki%202.png
+&#34; width=&#34;300&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;interviewed-and-photos-for-snopeshttpswwwsnopescomfact-checkparasite-fish-tongue-mouth-article-on-parasitic-isopods&#34;&gt;Interviewed and photos for 
 &lt;a href=&#34;https://www.snopes.com/fact-check/parasite-fish-tongue-mouth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Snopes&lt;/a&gt; article on parasitic isopods&lt;/h4&gt;
-&lt;p&gt;Article on cymothoid isopod &amp;ldquo;tongue-biters&amp;rdquo;. March 5, 2021.&lt;/p&gt;
-&lt;h4 id=&#34;7-ocean-parasites-worth-celebrating-on-world-parasite-dayhttpsoceansieduocean-life7-ocean-parasites-worth-celebrating-world-parasite-day&#34;&gt;
+&lt;p&gt;Article on cymothoid isopod &amp;ldquo;tongue-biters&amp;rdquo;.
+
+&lt;a href=&#34;https://www.snopes.com/fact-check/parasite-fish-tongue-mouth/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2021/03/isopod.jpeg&#34; width=&#34;775&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;cowrote-7-ocean-parasites-worth-celebrating-on-world-parasite-dayhttpsoceansieduocean-life7-ocean-parasites-worth-celebrating-world-parasite-day&#34;&gt;Cowrote 
 &lt;a href=&#34;https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;7 Ocean Parasites Worth Celebrating on World Parasite Day&lt;/a&gt;&lt;/h4&gt;
-&lt;p&gt;Cowrote article for Smithsonian Ocean Portal website. March 2, 2021.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ocean.si.edu/ocean-life/7-ocean-parasites-worth-celebrating-world-parasite-day&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://ocean.si.edu/sites/default/files/styles/full_width_large/public/2023-11/Sea_lamprey_%288741578394%29.jpg.webp?itok=7aU4gQcu&#34; width=&#34;775&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;smithsonian-nmnh-social-media-takeover&#34;&gt;Smithsonian NMNH social media takeover&lt;/h4&gt;
-&lt;p&gt;Social media takeover of NMNH channels for World Parasite Day. Wrote posts for
-Smithsonian NMNH Twitter, Instagram, and Facebook.&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;It&amp;#39;s &lt;a href=&#34;https://twitter.com/hashtag/ParasiteWeek2021?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ParasiteWeek2021&lt;/a&gt; and three of our experts—Jimmy Bernot, Anna Phillips, and Kelly Speer (L-R)—will be taking over our social media platforms to teach you about everything from their natural history to why their conservation (yes conservation!) matters. &lt;a href=&#34;https://t.co/IjmW3dNnn1&#34;&gt;pic.twitter.com/IjmW3dNnn1&lt;/a&gt;&lt;/p&gt;&amp;mdash; Smithsonian&amp;#39;s NMNH (@NMNH) &lt;a href=&#34;https://twitter.com/NMNH/status/1366410398178578437?ref_src=twsrc%5Etfw&#34;&gt;March 1, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;h4 id=&#34;just-the-zoo-of-ushttpswwwjustthezooofuscom-podcast-feature&#34;&gt;
 &lt;a href=&#34;https://www.justthezooofus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Just the Zoo of Us&lt;/a&gt; Podcast Feature&lt;/h4&gt;
-&lt;p&gt;Copepod biology and adaptions. 
-&lt;a href=&#34;https://www.justthezooofus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Just the Zoo of Us&lt;/a&gt; episode 86 – an animal
-diversity podcast. February 24, 2021&lt;/p&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed/episode/7hBU047dc1Xyg6p6rkgdZY&#34; width=&#34;100%&#34; height=&#34;232&#34; frameBorder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
 &lt;h4 id=&#34;cal-academy-of-sciences-genomics-seminarhttpswwwcalacademyorgvirtual-genomic-social-hour&#34;&gt;Cal. Academy of Sciences 
 &lt;a href=&#34;https://www.calacademy.org/virtual-genomic-social-hour&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics Seminar&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Invited speaker for Cal. Academy of Sciences 
-&lt;a href=&#34;https://www.calacademy.org/virtual-genomic-social-hour&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics Social Hour&lt;/a&gt; on Parasite and Host Genomics. Feb. 17, 2021. Talks available below on Youtube.&lt;/p&gt;
+&lt;a href=&#34;https://www.calacademy.org/virtual-genomic-social-hour&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomics Social Hour&lt;/a&gt; on Parasite and Host Genomics.&lt;/p&gt;
 &lt;iframe width=&#34;100%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/bAs27WGp-4Q&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;h4 id=&#34;exolorehttpswwwexolorepodcomepisodes-podcast-feature-1&#34;&gt;
+&lt;h4 id=&#34;exolorehttpswwwexolorepodcomepisodes-podcast-feature&#34;&gt;
 &lt;a href=&#34;https://www.exolorepod.com/episodes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exolore&lt;/a&gt; Podcast Feature&lt;/h4&gt;
 &lt;p&gt;The World of Queer Worms. Podcast panel discussion on hermaphroditic life on 
-&lt;a href=&#34;https://www.exolorepod.com/episodes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exolore Podcast&lt;/a&gt; episode 23, a podcast featuring scientists, historians, psychologists that discuss biological and sociological implications of sci-fi worlds. Feb. 11, 2021&lt;/p&gt;
+&lt;a href=&#34;https://www.exolorepod.com/episodes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exolore Podcast&lt;/a&gt; episode 23, a podcast featuring scientists, historians, psychologists that discuss biological and sociological implications of sci-fi worlds.&lt;/p&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed-podcast/episode/0yKH7kt3fh93RZpxlJF7SN&#34; width=&#34;100%&#34; height=&#34;232&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
-&lt;h4 id=&#34;iflscience-article&#34;&gt;IFLScience Article&lt;/h4&gt;
-&lt;p&gt;Collaborated on 
-&lt;a href=&#34;https://www.iflscience.com/health-and-medicine/scientist-volunteers-to-be-parasitized-by-50-hookworms-for-vaccine-study/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFLScience&lt;/a&gt; article on parasites and an experimental hookworm vaccine study. Feb. 2, 2021&lt;/p&gt;
+&lt;h4 id=&#34;iflscience-articlehttpswwwiflsciencecomscientist-volunteers-to-be-parasitized-by-50-hookworms-for-vaccine-study-58548&#34;&gt;
+&lt;a href=&#34;https://www.iflscience.com/scientist-volunteers-to-be-parasitized-by-50-hookworms-for-vaccine-study-58548&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IFLScience Article&lt;/a&gt;&lt;/h4&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Scientist Volunteers To Be Parasitized By 50 Hookworms For Vaccine Study&lt;a href=&#34;https://t.co/ot3zCsDrmB&#34;&gt;https://t.co/ot3zCsDrmB&lt;/a&gt; &lt;a href=&#34;https://t.co/Im8vwhkk2T&#34;&gt;pic.twitter.com/Im8vwhkk2T&lt;/a&gt;&lt;/p&gt;&amp;mdash; IFLScience (@IFLScience) &lt;a href=&#34;https://twitter.com/IFLScience/status/1356620030625144833?ref_src=twsrc%5Etfw&#34;&gt;February 2, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 &lt;h4 id=&#34;hookworm-vaccine--challenge-trial-thread&#34;&gt;Hookworm Vaccine &amp;amp; Challenge Trial Thread&lt;/h4&gt;
-&lt;p&gt;Twitter thread on my experience volunteering to participate in an exerpimental hookworm vaccine challenge trial. Jan. 27, 2021&lt;/p&gt;
+&lt;p&gt;Twitter thread on my experience volunteering to participate in an experimental hookworm vaccine challenge trial. Jan. 27, 2021&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Heres the story of how I volunteered to be infected with 50 parasitic worms (hookworm) for a year as part of a research study. Check out this thread &amp;amp; follow me for more &lt;a href=&#34;https://twitter.com/hashtag/parasite?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#parasite&lt;/a&gt; &amp;amp; marine biology content [t]&lt;a href=&#34;https://twitter.com/hashtag/ScienceTwitter?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#ScienceTwitter&lt;/a&gt; &lt;br&gt;imgs: &lt;a href=&#34;https://t.co/hH5YsfS0ay&#34;&gt;https://t.co/hH5YsfS0ay&lt;/a&gt; &lt;a href=&#34;https://t.co/kVurE6BbTS&#34;&gt;https://t.co/kVurE6BbTS&lt;/a&gt; &lt;a href=&#34;https://t.co/l75h5XcNfl&#34;&gt;pic.twitter.com/l75h5XcNfl&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jimmy Bernot PhD 🦐🪱🏳️‍🌈 (@JimmyBernot) &lt;a href=&#34;https://twitter.com/JimmyBernot/status/1354443833388503043?ref_src=twsrc%5Etfw&#34;&gt;January 27, 2021&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;h4 id=&#34;skype-a-scientisthttpswwwskypeascientistcom-x3&#34;&gt;
-&lt;a href=&#34;https://www.skypeascientist.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skype a Scientist&lt;/a&gt; x3&lt;/h4&gt;
-&lt;p&gt;Met with three 4th grade classes for a marine biology lesson and live Q&amp;amp;A. Hampstead Hill Academy, Baltimore, MD. February 18, 2021&lt;/p&gt;
 &lt;h4 id=&#34;lgbtq-stemcastttpsanchorfmlgbtqstemcast-podcast-feature&#34;&gt;
 &lt;a href=&#34;ttps://anchor.fm/lgbtqstemcast&#34;&gt;LGBTQ+ STEMCast&lt;/a&gt; Podcast Feature&lt;/h4&gt;
 &lt;p&gt;Interviewed on 
-&lt;a href=&#34;ttps://anchor.fm/lgbtqstemcast&#34;&gt;LGBTQ+ STEMCast&lt;/a&gt;, a podcast featuring LGBTQ+ scientists. Jan. 4, 2021&lt;/p&gt;
+&lt;a href=&#34;ttps://anchor.fm/lgbtqstemcast&#34;&gt;LGBTQ+ STEMCast&lt;/a&gt;, a podcast featuring LGBTQ+ scientists.&lt;/p&gt;
 &lt;iframe src=&#34;https://open.spotify.com/embed-podcast/episode/1Y2n1q8ZbMAwNHeeMjL5td&#34; width=&#34;100%&#34; height=&#34;232&#34; frameborder=&#34;0&#34; allowtransparency=&#34;true&#34; allow=&#34;encrypted-media&#34;&gt;&lt;/iframe&gt;
 &lt;h4 id=&#34;launched-world-association-of-copepodologists-twitterhttpstwittercomcopepodology&#34;&gt;Launched 
 &lt;a href=&#34;https://twitter.com/copepodology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;World Association of Copepodologists Twitter&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;Launched World Association of Copepodologists Twitter Account! We are now on Twitter 
 &lt;a href=&#34;https://twitter.com/copepodology&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@copepodology&lt;/a&gt; Oct. 23, 2020&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Did you know that there are more than 13,000 copepod species in the world? &lt;br&gt;&lt;br&gt;Stay tuned to know more about these charismatic animals!&lt;/p&gt;&amp;mdash; World Association of Copepodologists (@copepodology) &lt;a href=&#34;https://twitter.com/copepodology/status/1319763955586400263?ref_src=twsrc%5Etfw&#34;&gt;October 23, 2020&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;h4 id=&#34;conference-presentation&#34;&gt;Conference Presentation&lt;/h4&gt;
-&lt;p&gt;&lt;u&gt;A new phylogeny of the Pancrustacea&lt;/u&gt;. 
-&lt;a href=&#34;https://www.amsocparasit.org/post/parasite-hour-week-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Parasite Hour&lt;/a&gt; Virtual Conference. American Society of Parasitologists. June 25, 2020&lt;/p&gt;
-&lt;img src=&#34;https://github.com/jbernot/jbernot.github.io/blob/master/img/2020_Parasite_Hour_Week3.jpg?raw=true&#34;&gt;
-&lt;h4 id=&#34;skype-a-scientisthttpswwwskypeascientistcom&#34;&gt;
-&lt;a href=&#34;https://www.skypeascientist.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skype a Scientist&lt;/a&gt;.&lt;/h4&gt;
-&lt;p&gt;Met with 5th grade class for marine biology lesson and Q&amp;amp;A. The Leffell School, White Plains, NY. June 16, 2020.&lt;/p&gt;
-&lt;h4 id=&#34;skype-a-scientisthttpswwwskypeascientistcom-1&#34;&gt;
-&lt;a href=&#34;https://www.skypeascientist.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Skype a Scientist&lt;/a&gt;.&lt;/h4&gt;
-&lt;p&gt;Met with 4th grade class for marine biology lesson and Q&amp;amp;A. Hampstead Hill Academy, Baltimore, MD. Jun 5, 2020.&lt;/p&gt;
-&lt;h4 id=&#34;werepstem-blog-posthttpswerepstemcom20200703profile-james-jimmy-bernot-ph-d-candidate-in-genomics-bioinformatics-nsf-postdoc-research-fellow-in-biological-collections&#34;&gt;
-&lt;a href=&#34;https://werepstem.com/2020/07/03/profile-james-jimmy-bernot-ph-d-candidate-in-genomics-bioinformatics-nsf-postdoc-research-fellow-in-biological-collections/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WeRepStem Blog Post&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;werepstem-blog-post&#34;&gt;[WeRepStem Blog Post]&lt;/h4&gt;
 &lt;p&gt;Wrote 
 &lt;a href=&#34;https://werepstem.com/2020/07/03/profile-james-jimmy-bernot-ph-d-candidate-in-genomics-bioinformatics-nsf-postdoc-research-fellow-in-biological-collections/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog post&lt;/a&gt; for 
-&lt;a href=&#34;https://werepstem.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WeRepSTEM&lt;/a&gt;, a diversity in STEM blog. July 3, 2020&lt;/p&gt;
+&lt;a href=&#34;https://werepstem.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WeRepSTEM&lt;/a&gt;, a diversity in STEM blog.
+
+&lt;a href=&#34;https://werepstem.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;img src=&#34;https://pyzoohandmade.com/werepstem/wp-content/uploads/sites/2/2020/10/cropped-WRS-header-logo-1.png&#34; width=&#34;775&#34; &gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;world-parasite-day-auditorium-presentation&#34;&gt;“World Parasite Day” Auditorium Presentation&lt;/h4&gt;
-&lt;p&gt;Presented to 70 8th graders for Imagine Foundations at Morningside Public Charter School. Prince George’s County, MD. March 6, 2020.&lt;/p&gt;
+&lt;p&gt;Dr. Bernot presented to an auditorium of 70 8th graders for Imagine Foundations at Morningside Public Charter School. Prince George’s County, MD. March 6, 2020.&lt;/p&gt;
 &lt;h4 id=&#34;phdetailshttpphdetailsblogspotcom-blog-post&#34;&gt;
 &lt;a href=&#34;http://phdetails.blogspot.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhDetails&lt;/a&gt; Blog Post&lt;/h4&gt;
-&lt;p&gt;
-&lt;a href=&#34;http://phdetails.blogspot.com/2020/01/83-jimmy-bernot.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Interviewed&lt;/a&gt; for 
-&lt;a href=&#34;http://phdetails.blogspot.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PhDetails&lt;/a&gt; blog on graduate student life. January 3, 2020.&lt;/p&gt;
-&lt;h4 id=&#34;guest-lecture-biology--art-in-the-description-of-species&#34;&gt;Guest Lecture: Biology &amp;amp; Art in the Description of Species&lt;/h4&gt;
-&lt;p&gt;In: Biology and Art. James Madison University, VA. September 9, 2019.&lt;/p&gt;
 &lt;h4 id=&#34;congressional-science-night&#34;&gt;Congressional Science Night&lt;/h4&gt;
-&lt;p&gt;Scientist representative for Congressional Science Night. Smithsonian National Museum of Natural History. Invited by Department of Invertebrate Zoology to discuss science, research, and collections with members of Congress, their families, and their professional staff at a  special event for science engagement with Congress. July 17, 2019.&lt;/p&gt;
+&lt;p&gt;Scientist representative for Congressional Science Night. Smithsonian National Museum of Natural History. Invited by Department of Invertebrate Zoology to discuss science, research, and collections with members of Congress, their families, and their professional staff at a  special event for science engagement with Congress.&amp;lt;&lt;/p&gt;
 &lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Talking about copepods, parasites, and inverts with congress at congressional science night &lt;a href=&#34;https://twitter.com/NMNH?ref_src=twsrc%5Etfw&#34;&gt;@NMNH&lt;/a&gt; &lt;a href=&#34;https://twitter.com/oceanexplorer?ref_src=twsrc%5Etfw&#34;&gt;@oceanexplorer&lt;/a&gt; &lt;a href=&#34;https://twitter.com/oceana?ref_src=twsrc%5Etfw&#34;&gt;@oceana&lt;/a&gt; &lt;a href=&#34;https://twitter.com/InvertebratesDC?ref_src=twsrc%5Etfw&#34;&gt;@InvertebratesDC&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GWtweets?ref_src=twsrc%5Etfw&#34;&gt;@GWtweets&lt;/a&gt; &lt;a href=&#34;https://twitter.com/gwbiology?ref_src=twsrc%5Etfw&#34;&gt;@gwbiology&lt;/a&gt; &lt;a href=&#34;https://t.co/AFCHl8nKnm&#34;&gt;pic.twitter.com/AFCHl8nKnm&lt;/a&gt;&lt;/p&gt;&amp;mdash; Jimmy Bernot PhD 🦐🪱🏳️‍🌈 (@JimmyBernot) &lt;a href=&#34;https://twitter.com/JimmyBernot/status/1151639577746169856?ref_src=twsrc%5Etfw&#34;&gt;July 17, 2019&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
-&lt;h4 id=&#34;parasite-day-guest-speaker&#34;&gt;Parasite Day Guest Speaker&lt;/h4&gt;
-&lt;p&gt;Guest speaker on parasite biology, research, and career options at Temple High School in Arizona on Parasite Day. Video call, presentation, and Q&amp;amp;A for 2 12th grade science classes. March 4, 2019.&lt;/p&gt;
 &lt;h4 id=&#34;public-outreach-at-smithsonian-nmnh&#34;&gt;Public Outreach at Smithsonian NMNH&lt;/h4&gt;
-&lt;p&gt;Crustacean scientist, Ocean Hall Department of Invertebrate Zoology public outreach. Crustacean specimen displays and Q&amp;amp;A. Smithsonian National Museum of Natural History. April 5, 2018.
-&lt;img src=&#34;https://github.com/jbernot/jbernot.github.io/blob/master/img/SI_photo4.jpg?raw=true&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;figure-for-science-magazine&#34;&gt;Figure for Science Magazine&lt;/h4&gt;
-&lt;p&gt;Contributed figure to Science Magazine article &lt;u&gt;Biologists propose to sequence the DNA of all life on Earth.&lt;/u&gt; 
-&lt;a href=&#34;https://doi.org/10.1126/science.aal0824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1126/science.aal0824&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Crustacean scientist, Ocean Hall Department of Invertebrate Zoology public outreach. Crustacean specimen displays and Q&amp;amp;A. Smithsonian National Museum of Natural History.
+&lt;img src=&#34;https://BernotLab.github.io/assets/img/SI_photo4.jpg?raw=true&#34; width=&#34;775&#34;/&gt;&lt;/p&gt;
 &lt;h4 id=&#34;meet-a-scientist-ocean-expert-at-smithsonian-nmnh&#34;&gt;Meet-a-Scientist “Ocean Expert” at Smithsonian NMNH&lt;/h4&gt;
-&lt;p&gt;“Copepods: what reefs eat, and what is eating them.” Topic included: food webs, invertebrate diversity, specimen display, Q&amp;amp;A. World Ocean Day at Smithsonian National Museum of Natural History. June 8, 2016.&lt;/p&gt;
+&lt;p&gt;“Copepods: what reefs eat, and what is eating them.” Topic included: food webs, invertebrate diversity, specimen display, Q&amp;amp;A. World Ocean Day at Smithsonian National Museum of Natural History.&lt;/p&gt;
 &lt;h4 id=&#34;smithsonian-sciencehow-webcast&#34;&gt;Smithsonian “ScienceHow?” Webcast&lt;/h4&gt;
-&lt;p&gt;Expert for live Q&amp;amp;A on parasites in &lt;u&gt;Smithsonian “ScienceHow?” Webcast&lt;/u&gt;. Broadcast designed to meet middle school science curriculum. Online attendance &amp;gt; 2,000 students. Smithsonian National Museum of Natural History. May 19, 2016.&lt;/p&gt;
+&lt;p&gt;Live Q&amp;amp;A on parasites in &lt;u&gt;Smithsonian “ScienceHow?” Webcast&lt;/u&gt;. Broadcast designed to meet middle school science curriculum. Online attendance &amp;gt; 2,000 students. Smithsonian National Museum of Natural History.
+&lt;img src=&#34;https://BernotLab.github.io/assets/img/SI_photo5.jpg?raw=true&#34; width=&#34;775&#34;/&gt;&lt;/p&gt;
 &lt;h4 id=&#34;bbc-documentary-interview&#34;&gt;BBC Documentary Interview&lt;/h4&gt;
 &lt;p&gt;Interviewed for BBC documentary on CRISPR-CAS9 and research
-ethics. George Washington University. Washington, DC. April 19, 2016.&lt;/p&gt;
-&lt;h4 id=&#34;photo-credit-for-smithsonian-insider-article&#34;&gt;Photo Credit for Smithsonian Insider Article&lt;/h4&gt;
-&lt;p&gt;Contributed photographs for Smithsonian Insider article: &lt;u&gt;In face of mass extinctions Smithsonian’s Global Genome Initiative quietly saves world’s DNA&lt;/u&gt;. April 5, 2016.&lt;/p&gt;
-&lt;h4 id=&#34;exibit-design&#34;&gt;Exibit Design&lt;/h4&gt;
+ethics. George Washington University. Washington, DC.&lt;/p&gt;
+&lt;h4 id=&#34;exhibit-design&#34;&gt;Exhibit Design&lt;/h4&gt;
 &lt;p&gt;Prepared specimens and worked with a photographer to design an exhibit on tapeworms in the Connecticut State Natural History Museum. 
 &lt;a href=&#34;https://www.flickr.com/photos/107963674@N07/albums/72157662181220376&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.flickr.com/photos/107963674@N07/albums/72157662181220376&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;parasite-curriculum-k-5&#34;&gt;Parasite Curriculum K-5&lt;/h4&gt;
-&lt;p&gt;Designed and presented curricula on parasites for 1st, 3rd, and 4th grade
-students. Franklin Elementary School Franklin, CT. 2013, 2014&lt;/p&gt;
+&lt;p&gt;Designed and presented on parasites for 1st, 3rd, and 4th grade
+students. Franklin Elementary School Franklin, CT.&lt;/p&gt;
 </description>
     </item>
     
@@ -206,26 +171,26 @@ students. Franklin Elementary School Franklin, CT. 2013, 2014&lt;/p&gt;
       <link>https://jimmybernot.com/publication_list/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://jimmybernot.com/publication_list/</guid>
-      <description>&lt;h3 id=&#34;submitted-or-in-review&#34;&gt;Submitted or in review&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Boxshall GA, Goetz FE, Phillips AJ. (submitted). &lt;u&gt;Revisiting the unique morphology of Shiinoidae (Copepoda: Cyclopoida) with microCT&lt;/u&gt;. 20 pages + 7 figures.&lt;/p&gt;
-&lt;h3 id=&#34;2023&#34;&gt;2023&lt;/h3&gt;
-&lt;p&gt;Boxshall GA, &lt;b&gt;Bernot JP&lt;/b&gt;. (accepted). &lt;u&gt;Resolving taxonomic and nomenclatural problems in the genus &lt;i&gt;Caligus&lt;/i&gt; O.F. Müller, 1785 (Copepoda: Caligidae)&lt;/u&gt;. &lt;i&gt;Zootaxa&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Owen CL, Wolfe JM, Meland K, Olesen J, Crandall KA. (2023)
-&lt;u&gt;Major Revisions in Pancrustacean Phylogeny and Evidence of Sensitivity to Taxon Sampling&lt;/u&gt;. &lt;i&gt;Molecular Biology and Evolution&lt;/i&gt;. 
+      <description>&lt;h4 id=&#34;2024&#34;&gt;2024&lt;/h4&gt;
+&lt;p&gt;Ismail N, Nishida Y, Ohtsuka S, Boxshall G, &lt;b&gt;Bernot JP&lt;/b&gt;. (accepted). &lt;u&gt;First record of &lt;i&gt;Caligus dussumieri&lt;/i&gt; Rangnekar, 1957 (Copepoda, Siphonostomatoida, Caligidae) from Malaysia, with notes on caligids found from Malaysia and on host-specificity of caligids on lutjanid fishes.&lt;/u&gt; &lt;i&gt;Biodiversity Data Journal&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Boxshall GA, Goetz FE, Phillips AJ. (accepted). &lt;u&gt;Revisiting the unique morphology of Shiinoidae (Copepoda: Cyclopoida) with microCT&lt;/u&gt;. &lt;i&gt;PeerJ&lt;/i&gt;.&lt;/p&gt;
+&lt;h4 id=&#34;2023&#34;&gt;2023&lt;/h4&gt;
+&lt;p&gt;Boxshall GA, &lt;b&gt;Bernot JP&lt;/b&gt;. (2023). &lt;u&gt;Resolving taxonomic and nomenclatural problems in the genus &lt;i&gt;Caligus&lt;/i&gt; O.F. Müller, 1785 (Copepoda: Caligidae)&lt;/u&gt;. &lt;i&gt;Zootaxa&lt;/i&gt;. 
+&lt;a href=&#34;https://doi.org/10.11646/ZOOTAXA.5360.4.5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.11646/ZOOTAXA.5360.4.5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Owen CL, Wolfe JM, Meland K, Olesen J, Crandall KA. (2023) &lt;u&gt;Major Revisions in Pancrustacean Phylogeny and Evidence of Sensitivity to Taxon Sampling&lt;/u&gt;. &lt;i&gt;Molecular Biology and Evolution&lt;/i&gt;. 
 &lt;a href=&#34;https://doi.org/10.1093/molbev/msad175&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1093/molbev/msad175&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2022&#34;&gt;2022&lt;/h3&gt;
+&lt;h4 id=&#34;2022&#34;&gt;2022&lt;/h4&gt;
 &lt;p&gt;Hawdon JM, &lt;b&gt;Bernot JP.&lt;/b&gt; (2022). &lt;u&gt;Teaching Parasitology Lab Remotely Using Livestreaming&lt;/u&gt;. &lt;i&gt;The American Biology Teacher&lt;/i&gt;. 
 &lt;a href=&#34;https://doi.org/10.1525/abt.2022.84.5.312&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1525/abt.2022.84.5.312&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Avdeyev P, Zamyatin A, Alexeev N, Dreyer N, Pérez-Losada M, Crandall KA. (2022). &lt;u&gt;Chromosome-level genome assembly, annotation, and phylogenomics of the gooseneck barnacle Pollicipes pollicipes&lt;/u&gt;. &lt;i&gt;GigaScience&lt;/i&gt;. 
 &lt;a href=&#34;https://doi.org/10.1093/gigascience/giac021&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1093/gigascience/giac021&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2021&#34;&gt;2021&lt;/h3&gt;
+&lt;h4 id=&#34;2021&#34;&gt;2021&lt;/h4&gt;
 &lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Boxshall GA, Crandall KA. (2021). &lt;u&gt;A synthesis tree of the Copepoda: integrating phylogenetic and taxonomic data reveals multiple origins of parasitism&lt;/u&gt;. &lt;i&gt;PeerJ&lt;/i&gt;. 
 &lt;a href=&#34;https://doi.org/10.7717/peerj.12034&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.7717/peerj.12034&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Haskins IN, Wang B-D, &lt;b&gt;Bernot JP&lt;/b&gt;, Cauley EC, Horvath A, Marks JH, Lee NH, Agarwal S. (2021). &lt;u&gt;Genomics of Black American Colon Cancer Disparities: An RNA-Seq Study from an Academic, Tertiary Referral Center&lt;/u&gt;. &lt;i&gt;Surgery&lt;/i&gt;. 
 &lt;a href=&#34;https://doi.org/10.1016/j.surg.2021.03.031&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.surg.2021.03.031&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2020&#34;&gt;2020&lt;/h3&gt;
-&lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Rudy G, Erickson PT, Ratnappan R, Haile M, Rosa BA, Mitreva M, O’Halloran DM, Hawdon JM. (2020). &lt;u&gt;Transcriptomic analysis of hookworm Ancylostoma ceylanicum life cycle stages reveals changes in GPCR diversity associated with the onset of parasitism&lt;/u&gt;. &lt;i&gt;International Journal for Parasitology&lt;/i&gt;.
-
+&lt;h4 id=&#34;2020&#34;&gt;2020&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Rudy G, Erickson PT, Ratnappan R, Haile M, Rosa BA, Mitreva M, O’Halloran DM, Hawdon JM. (2020). &lt;u&gt;Transcriptomic analysis of hookworm Ancylostoma ceylanicum life cycle stages reveals changes in GPCR diversity associated with the onset of parasitism&lt;/u&gt;. &lt;i&gt;International Journal for Parasitology&lt;/i&gt;. 
 &lt;a href=&#34;https://doi.org/10.1016/j.ijpara.2020.05.003&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1016/j.ijpara.2020.05.003&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Boxshall GA, &lt;b&gt;Bernot JP&lt;/b&gt;, Barton DP, Diggles BK, Yong RQ-Y, Atkinson-Coyle T, Hutson KS. (2020). &lt;u&gt;Parasitic copepods of the family Lernanthropidae Kabata, 1979 (Copepoda: Siphonostomatoida). from Australian fishes with descriptions of seven new species&lt;/u&gt;. &lt;i&gt;Zootaxa&lt;/i&gt;. 
 &lt;a href=&#34;https://doi.org/10.11646/zootaxa.4736.1.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.11646/zootaxa.4736.1.1&lt;/a&gt;&lt;/p&gt;
@@ -233,20 +198,20 @@ students. Franklin Elementary School Franklin, CT. 2013, 2014&lt;/p&gt;
 &lt;a href=&#34;https://doi.org/10.1093/hmg/ddaa024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1093/hmg/ddaa024&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Fujiogi M, Camargo CA Jr, &lt;b&gt;Bernot JP&lt;/b&gt;, Freishtat RJ, Harmom B, Mansbach J, Castro-Nallar E, Perez-Losada M, Hasegawa K. (2020). &lt;u&gt;In infants with severe bronchiolitis: dual-transcriptomic profiling of nasopharyngeal microbiome and host response&lt;/u&gt;. &lt;i&gt;Pediatric Research&lt;/i&gt;. 
 &lt;a href=&#34;https://www.nature.com/articles/s41390-019-0742-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.nature.com/articles/s41390-019-0742-8&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2019&#34;&gt;2019&lt;/h3&gt;
+&lt;h4 id=&#34;2019&#34;&gt;2019&lt;/h4&gt;
 &lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Caira JN. (2019). &lt;u&gt;Site specificity and attachment mode of &lt;i&gt;Symcallio&lt;/i&gt; and &lt;i&gt;Calliobothrium&lt;/i&gt; species (Cestoda: “Tetraphyllidea”). in smoothhound sharks of the genus &lt;i&gt;Mustelus&lt;/i&gt; (Carcharhiniformes: Triakidae)&lt;/u&gt;. &lt;i&gt;PeerJ&lt;/i&gt; 
 &lt;a href=&#34;http://doi.org/10.7717/peerj.7264&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.7717/peerj.7264&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Boxshall GA. (2019). &lt;u&gt;Two new species of parasitic copepods from the genera &lt;i&gt;Nothobomolochus&lt;/i&gt; and &lt;i&gt;Unicolax&lt;/i&gt; (Cyclopoida: Bomolochidae).  from Australian waters&lt;/u&gt;. &lt;i&gt;PeerJ&lt;/i&gt; 
 &lt;a href=&#34;http://doi.org/10.7717/peerj.6858&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://doi.org/10.7717/peerj.6858&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2017&#34;&gt;2017&lt;/h3&gt;
+&lt;h4 id=&#34;2017&#34;&gt;2017&lt;/h4&gt;
 &lt;p&gt;Hughes LC, Somoza GM, Nguyen BM, &lt;b&gt;Bernot JP&lt;/b&gt;, González-Castro M, Díaz de Astarloa JM, Ortí G. (2017). &lt;u&gt;Transcriptomic differentiation underlying marine-to-freshwater transitions in the South American silversides &lt;i&gt;Odontesthes argentinensis&lt;/i&gt; and &lt;i&gt;O. bonariensis&lt;/i&gt; (Atheriniformes)&lt;/u&gt;. &lt;i&gt;Ecology and Evolution&lt;/i&gt; 
 &lt;a href=&#34;http://dx.doi.org/10.1002/ece3.3133&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://dx.doi.org/10.1002/ece3.3133&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Boxshall GA. (2017). &lt;u&gt;A new species of &lt;i&gt;Pseudopandarus&lt;/i&gt; Kirtisinghe, 1950 (Copepoda: Siphonostomatoida: Pandaridae). from sharks of the genus &lt;i&gt;Squalus&lt;/i&gt; L. in New Caledonian waters&lt;/u&gt;. &lt;i&gt;Systematic Parasitology&lt;/i&gt; 94: 275–291. 
 &lt;a href=&#34;https://doi.org/10.1007/s11230-016-9692-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1007/s11230-016-9692-2&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2016&#34;&gt;2016&lt;/h3&gt;
+&lt;h4 id=&#34;2016&#34;&gt;2016&lt;/h4&gt;
 &lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Caira JN, Pickering M. (2016). &lt;u&gt;Diversity, phylogenetic relationships, and host associations of &lt;i&gt;Calliobothrium&lt;/i&gt; and &lt;i&gt;Symcallio&lt;/i&gt; (Cestoda: “Tetraphyllidea”). parasitizing triakid sharks&lt;/u&gt;. &lt;i&gt;Invertebrate Systematics&lt;/i&gt; 30: 616–634. 
 &lt;a href=&#34;https://doi.org/10.1071/is15040&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1071/is15040&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2015&#34;&gt;2015&lt;/h3&gt;
+&lt;h4 id=&#34;2015&#34;&gt;2015&lt;/h4&gt;
 &lt;p&gt;&lt;b&gt;Bernot JP&lt;/b&gt;, Caira JN, Pickering M. (2015). &lt;u&gt;The dismantling of &lt;i&gt;Calliobothrium&lt;/i&gt; (Cestoda: Tetraphyllidea). with erection of &lt;i&gt;Symcallio&lt;/i&gt; n. gen. and description of two new species&lt;/u&gt;. &lt;i&gt;The Journal of Parasitology&lt;/i&gt; 101: 167–181. 
 &lt;a href=&#34;https://doi.org/10.1645/14-571.1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.1645/14-571.1&lt;/a&gt;&lt;/p&gt;
 </description>
